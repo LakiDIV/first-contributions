@@ -7,6 +7,7 @@
 - [Muhammad Rahman](https://github.com/mfrahman123)
 - [hola]
 - [Vinicius Gomes Ferreira](https://github.com/viniciusgferreira)
+- [Lakshika Madhuranga](https://github.com/LakiDIV)
 - [Abulfazl Haidary](https://github.com/abulfazl-haidary)
 - [Alfred Thompson Ovie](https://github.com/alfredthompsonOvie)
 - [Ray](https://github.com/1rb)
